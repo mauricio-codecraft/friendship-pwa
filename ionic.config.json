@@ -1,0 +1,7 @@
+{
+  "name": "friendship-pwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
